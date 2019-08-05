@@ -1,0 +1,43 @@
+html,body{
+  height: 100%;
+  width: 100%;
+}
+#home{
+  background: url(http://drive.google.com/uc?export=view&id=1gmPhm0duZV94gSInrabpIrSgzVgvccGp)no-repeat center center fixed;
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+}
+.landing-text {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+}
+.landing-text h1{
+  font-size: 500%;
+  font-weight: 800;
+  }
+.padding{
+  padding: 80px 0;
+}
+.padding img{
+  width: 100%;
+}
+#fixed{
+  background: url(http://drive.google.com/uc?export=view&id=1gmPhm0duZV94gSInrabpIrSgzVgvccGp)no-repeat center center fixed;
+  display: table;
+  height: 50%;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+}
+
+footer{
+  width: 100%;
+  background-color: white;
+  padding: 3% 5% 3% 5%;
+  color:black;
+}
